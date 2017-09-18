@@ -4,15 +4,95 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>DatePickerInDetail.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>DetePickerDetail.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>DispatchQueue.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>HuggingCompressionPriority.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>LayerAnimation.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>PushPresent.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>Recursion.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>Sortings.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Tags.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>2F25D5EF1F6D24FF00ECD0FB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>2F26FF981F5F0DD100329489</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2F31BCBB1F6018F700A58020</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2F4306F11F61544600D3BE85</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2F4307071F616D8500D3BE85</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2F94D0F31F6AA9F7007276A4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2F98E6DD1F6AAF5300C3D46A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2FCF40741F69179F007446CC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2FCF475C1F6BB12B00FCAF03</key>
 		<dict>
 			<key>primary</key>
 			<true/>
