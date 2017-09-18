@@ -46,7 +46,7 @@ class RecViewController: UIViewController {
 
 
 func merge(leftArray:[Int],rightArray:[Int]) -> [Int] {
-    print("control to mergeFunction")
+    print("control to merge Function")
     var i = 0
     var j = 0
     while (i < leftArray.count && j < rightArray.count) {
